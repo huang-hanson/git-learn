@@ -1,0 +1,12 @@
+{
+  "key": "common-api",
+  "name": "Common API",
+  "description": "Common API",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Marcelo Campos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelocampos/common-api.git"
+  }
+}
