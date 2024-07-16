@@ -1,0 +1,6 @@
+[submodule "git-learn-submodules1"]
+	path = git-learn-submodules1
+	url = https://github.com/huang-hanson/git-learn-submodules1.git
+[submodule "git-learn-submodules2"]
+	path = git-learn-submodules2
+	url = https://github.com/huang-hanson/git-learn-submodules2.git
